@@ -1,0 +1,29 @@
+input{
+  color: blue;
+}
+a{
+  color:aqua;
+  
+}
+h1{
+  color: blue;
+}
+button{
+  color: aqua;
+}
+input{
+  background-color: aqua;
+  width: 25%;
+   
+  
+}
+
+body{
+  background-color:black;
+  width: 80%;
+  border-radius: 5%;
+  display: flex;
+  margin: 0%;
+
+  
+}
